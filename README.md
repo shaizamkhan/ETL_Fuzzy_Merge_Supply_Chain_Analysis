@@ -39,14 +39,14 @@ The minimum observed time for a successful conversion was $\mathbf{22 \text{ hou
 * **Metric:** **Attributable Turnaround Time** ($\mathbf{T_{\text{purchase}} - T_{\text{browse}}}$).
 * **Empirical Finding:** $\mathbf{Min = 22 \text{ hours}}$.
 
-![Turnaround Time Distribution Histogram Placeholder]()
+![Turnaround Time Distribution Histogram Placeholder](assets/Turnaround_Time_dist.jpg)
 
 ### 3. Financial and Behavioral Insights
 
 * **Average Profit per Converted Customer:** $\mathbf{\$68.95}$ (Validates the superior financial quality of the linked segment).
 * **Category Bias:** Analysis confirmed that the **linked cohort** purchases complex/high-value durable goods, while the **unlinked cohort** favors commodity or low-cost items, further validating the distinction.
 
-![Category Mapping Visualization Placeholder]()
+![Category Mapping Visualization Placeholder](assets/Converted_customer_purchase_category.jpg)
 
 ---
 
