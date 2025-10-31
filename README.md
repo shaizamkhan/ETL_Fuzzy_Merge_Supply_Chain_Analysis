@@ -68,7 +68,7 @@ The minimum observed time for a successful conversion was $\mathbf{22 \text{ hou
 
 The resulting Fact Table is ready for:
 
-1. **Predictive Modeling:** Building a classification model to predict **Customer Lifetime Value (CLV)** using $\mathbf{Turnaround\_Time\_Hours}$ as a feature.
+1. **Predictive Modeling:** Building a classification model to predict **Customer Lifetime Value (CLV)** using `Turnaround_Time_Hours` as a feature.
 2. **Unsupervised Clustering:** Identifying new, data-driven **Customer Segments**.
 
 **Note:** If modeling is implemented, the code would be added as `src/model.py`.
