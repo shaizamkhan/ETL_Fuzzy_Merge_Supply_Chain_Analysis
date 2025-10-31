@@ -55,7 +55,7 @@ The minimum observed time for a successful conversion was $\mathbf{22 \text{ hou
 | Path | Description |
 | :--- | :--- |
 | **`notebooks/`** | Contains the core code and execution log. |
-| `notebooks/supply-chain-etl-project-shaizam-adil-khan.ipynb` | The executable Python code for the 4-stage ETL pipeline. |
+| `notebooks/Supply Chain ETL Project - Shaizam Adil Khan.ipynb` | The executable Python code for the 4-stage ETL pipeline. |
 | **`documentation/`** | Formal project deliverables and reference files. |
 | `documentation/Shaizam Adil Khan - ETL pipeline.pdf` | The final, detailed project report (PDF). |
 | `documentation/SUMMARY.md` | Quick reference guide to methodology and terms. |
