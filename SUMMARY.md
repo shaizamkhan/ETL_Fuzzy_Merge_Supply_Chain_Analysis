@@ -22,11 +22,15 @@ The small, linked cohort demonstrates unique behavioral characteristics, confirm
 
 * **Validation:** The **Minimum Turnaround Time Observed** was $\mathbf{22 \text{ hours}}$.
 
-![Turnaround Time Distribution Histogram Placeholder]()
+![Turnaround Time Distribution Histogram](assets/Turnaround_Time_dist.jpg)
 
 * **Behavioral Skew:** Comparison of purchase habits shows a strong correlation between traceable, multi-session research and higher-margin goods.
 
-![Category Mapping Visualization Placeholder]()
+![Category Mapping Visualization](assets/Converted_customer_purchase_category.jpg)
+
+* **Profit per conversion:** Visualisation of the profits brought in for every sale of the converted customer, which shows a mostly profitable income, with some determined shoppers who only waited for deep-discounts on preferred products.
+
+![Profitability of the converted customers](assets/Profit_dist_converted_cust.jpg)
 
 ---
 
@@ -36,9 +40,6 @@ The small, linked cohort demonstrates unique behavioral characteristics, confirm
 | :--- | :--- | :--- |
 | **Attributable Turnaround Time** | $\mathbf{T_{\text{purchase}} - T_{\text{browse}}}$ (Purchase Date - First View Timestamp in hours/minutes). | Quantifies the customer deliberation cycle. |
 | **Link Confidence** | Categorical feature ($\text{HIGH/MEDIUM/FOCUSED}$). | Used to select the most reliable cohort for predictive modeling. |
-| **Purchase Efficiency Ratio** | $\frac{\text{Turnaround\_Time\_Minutes}}{\text{Total\_Daily\_Interactions}}$. | Normalized measure of customer effort used for segmentation. |
-
----
 
 ## 3. Appendix of Technical Terms
 
