@@ -1,0 +1,6 @@
+# ETL Pipeline Dependencies
+pandas>=2.0.0
+numpy>=1.25.0
+scipy>=1.11.0  # For KD-Tree implementation
+geopy>=2.3.0   # For Geocoding (Haversine and Geocoder services)
+fastparquet>=2023.4.0 # For writing the final Parquet file
