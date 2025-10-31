@@ -26,9 +26,9 @@ The separation confirms that the majority of traffic is instant/direct ($\mathbf
 
 | Classification | Count | Percentage |
 | :--- | :--- | :--- |
-| **FOCUSED (Unlinked)** | $180337$ | $99.8992\%$ |
-| **HIGH (Linked)** | $119$ | $0.0659\%$ |
-| **MEDIUM (Linked)** | $63$ | $0.0349\%$ |
+| **FOCUSED (Unlinked)** | $180337$ | $99.8992$% |
+| **HIGH (Linked)** | $119$ | $0.0659$% |
+| **MEDIUM (Linked)** | $63$ | $0.0349$% |
 
 ---
 
